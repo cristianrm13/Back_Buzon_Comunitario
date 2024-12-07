@@ -6,7 +6,7 @@ Este proyecto es el backend de la aplicación **Buzón Comunitario**, una plataf
 
 - **Gestión de quejas**: Los usuarios pueden registrar quejas con detalles como descripción, imágenes y ubicación.
 - **Gestión de usuarios**: Los administradores pueden gestionar los perfiles de los usuarios y asignar roles.
-- **Notificaciones**: Los usuarios reciben notificaciones cuando el estado de su reporte cambia.
+- **Notificaciones**: Los usuarios reciben notificaciones cuando se registran y cuando se crea un reporte de alguna queja.
 - **Análisis de reportes**: Los administradores pueden analizar los reportes y generar informes.
 - **Integración con servicios externos**: El sistema está integrado con servicios como **Mercado Pago** para realizar pagos (si aplica) y otros servicios necesarios.
 
